@@ -38,6 +38,21 @@ Follow-up: Can you come up with an algorithm that is less than O(n2) time comple
 */
 
 func twoSum(nums []int, target int) []int {
+	stored := make(map[int]int, len(nums))
+
+	for i, x := range nums {
+		needToSolve := target - x
+		if storedIndex, ok := stored[needToSolve]; ok {
+			return []int{storedIndex, i}
+		}
+
+		stored[x] = i
+	}
+
+	return nil
+}
+
+func twoSum_WithSort(nums []int, target int) []int {
 	type composite struct {
 		value int
 		index int
