@@ -1,4 +1,4 @@
-package leetcode
+package roman_to_integer
 
 /**
 Roman numerals are represented by seven different symbols: I, V, X, L, C, D and M.
