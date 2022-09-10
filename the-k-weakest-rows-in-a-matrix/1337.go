@@ -27,7 +27,7 @@ func kWeakestRows(mat [][]int, k int) []int {
 		return mat[i][0] < mat[j][0]
 	})
 
-	result := make([]int, k, k)
+	result := make([]int, k)
 	for i := 0; i < k; i++ {
 		result[i] = mat[i][1]
 	}

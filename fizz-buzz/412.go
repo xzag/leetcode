@@ -37,7 +37,7 @@ func fizzBuzz(n int) []string {
 	fizzIndex := fizz
 	buzzIndex := buzz
 
-	result := make([]string, n, n)
+	result := make([]string, n)
 	for i := 1; i <= n; i++ {
 		str := ""
 		if i == fizzIndex {

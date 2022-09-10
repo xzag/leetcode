@@ -58,7 +58,7 @@ func twoSum_WithSort(nums []int, target int) []int {
 		index int
 	}
 
-	data := make([]composite, len(nums), len(nums))
+	data := make([]composite, len(nums))
 	for i, x := range nums {
 		data[i] = composite{
 			value: x,
