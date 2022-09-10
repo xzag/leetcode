@@ -9,6 +9,7 @@ leetcode problems
 | [1. Two Sum](https://leetcode.com/problems/two-sum/)                                                                          | [two-sum](two-sum/)                                                                       |
 | [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)                                                          | [add-two-numbers](add-two-numbers/)                                                       |
 | [13. Roman To Integer](https://leetcode.com/problems/roman-to-integer/)                                                       | [roman-to-integer](roman-to-integer/)                                                     |
+| [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                        | [best-time-to-buy-and-sell-stock](best-time-to-buy-and-sell-stock/)                       |
 | [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)                                          | [palindrome-linked-list](palindrome-linked-list/)                                         |
 | [383. Ransom Note](https://leetcode.com/problems/ransom-note/)                                                                | [ransom-note](ransom-note/)                                                               |
 | [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)                                                                    | [fizz-buzz](fizz-buzz/)                                                                   |
