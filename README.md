@@ -1,4 +1,7 @@
 # leetcode
+
+![golangci-lint](https://github.com/xzag/leetcode/actions/workflows/golangci-lint.yml/badge.svg)
+
 leetcode problems
 
 | Leetcode                                                                                              | Solution                                                          |
