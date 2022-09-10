@@ -1,6 +1,6 @@
 # leetcode
 
-![golangci-lint](https://github.com/xzag/leetcode/actions/workflows/golangci-lint.yml/badge.svg)
+![lint and test](https://github.com/xzag/leetcode/actions/workflows/ci.yml/badge.svg)
 
 leetcode problems
 
